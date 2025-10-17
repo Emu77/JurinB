@@ -1,6 +1,6 @@
 {
   "name": "test",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
@@ -25,5 +25,7 @@
     "tailwindcss": "^4",
     "typescript": "^5"
   },
-  "engines": { "node": ">=18.18 <23" }
+  "engines": {
+    "node": ">=18.18 <23"
+  }
 }
